@@ -1,4 +1,4 @@
 # sanskruti-demo
 This is my first git repository.
 <br>
-AUTHOR - Sanskruti Gaikwad
+AUTHOR - Sanskruti Subhash Gaiwkad
